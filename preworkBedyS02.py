@@ -41,7 +41,7 @@ print(suma_de_5_mas_2)
 
 def holita():
     print('hola edna')
-    print('continua tu aprendizaje para ser mejor')
+    print('holita')
 
 holita()
 
